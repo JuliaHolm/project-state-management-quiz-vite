@@ -1,9 +1,9 @@
-import { CurrentQuestion } from "./components/CurrentQuestion";
+import { QuestionPage } from "./pages/QuestionPage/QuestionPage";
 
 export const App = () => {
   return (
-    <div>
-      <CurrentQuestion />
+    <div className="main-wrapper">
+      <QuestionPage />
     </div>
   );
 };

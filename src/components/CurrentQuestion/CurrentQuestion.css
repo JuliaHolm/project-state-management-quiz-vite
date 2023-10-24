@@ -1,0 +1,9 @@
+.question-container {
+  margin-bottom: 1rem;
+}
+
+.question-container h1 {
+  color: #431c52;
+  font-size: 1rem;
+  font-weight: 500;
+}
